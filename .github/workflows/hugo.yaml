@@ -51,7 +51,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "blog.flowclix.me/"
+            --baseURL "https://blog.flowclix.me/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
