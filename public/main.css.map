@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/alejandro/Code/alejandro/blog/blog",
+	"sourceRoot": "/Users/adborroto/Code/alejandro/blog",
 	"sources": [
 		"node_modules/@hyas/core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",
